@@ -4,7 +4,7 @@ An interactive web application to visualize the **Golden Section Search** optimi
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📈 Real-time interactive visualization with Plotly
 - 🧠 Step-by-step optimization history
@@ -87,4 +87,5 @@ MIT License – feel free to use, modify, and share this project.
 
 ---
 
-## ✨ Author: Umut Alkan
+## ✨ Author
+*Umut Alkan*
