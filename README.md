@@ -1,2 +1,3 @@
-# gss-visualizer
-Visualize Golden Section Search Algorithm with Plotly and Streamlit — watch optimization in action with interactive animation.
+# 🔍 Visualize the Golden Section Search Algorithm
+
+An interactive and animated web app built with **Streamlit** and **Plotly** to explore the Golden Section Search algorithm in real-time.
