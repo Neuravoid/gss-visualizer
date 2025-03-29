@@ -76,7 +76,7 @@ golden-section-visualizer/
 ## 🌐 Live Demo
 
 Try it out here:  
-👉 [golden-section-visualizer.streamlit.app](https://golden-section-visualizer.streamlit.app)
+👉 [GSS Streamlit App](https://golden-section-visualizer.streamlit.app)
 
 
 ---
