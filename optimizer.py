@@ -1,13 +1,14 @@
 import math
-from scipy.misc import derivative
+from numdifftools import Derivative
 
 def find_the_trend(f, a_current, b_current, x1, x2, extreme_type="max"):
     """
     Determines the new interval based on derivatives at x1 and x2.
     a_current and b_current are the current interval boundaries.
     """
-    der1 = derivative(f, x1, dx=1e-3)
-    der2 = derivative(f, x2, dx=1e-3)
+    der1 = Derivative(f)(x1)
+    der2 = Derivative(f)(x2)
+
     if extreme_type == "max":
         if der1 > der2:
             return (x1, b_current)
