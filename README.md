@@ -4,12 +4,6 @@ An interactive web application to visualize the **Golden Section Search** optimi
 
 ---
 
-## 📸 Preview
-
-![GSS Demo](https://user-images.githubusercontent.com/yourusername/demo-image.png)
-
----
-
 ## 🚀 Features
 
 - 📈 Real-time interactive visualization with Plotly
@@ -93,7 +87,4 @@ MIT License – feel free to use, modify, and share this project.
 
 ---
 
-## ✨ Author
-
-Made with 💡 by **Hope**  
-*Next-Gen Data Scientist & Optimizer Enthusiast*
+## ✨ Author: Umut Alkan
